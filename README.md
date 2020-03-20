@@ -1,4 +1,4 @@
-# ROI of short-term rental schemes of Real estate property in NYC
+# ROI of short-term rental schemes of Real estate property
 ----------
 
 The datasets from AirBnb and Zillow of New York City were analysed to identify Zipcodes where, if property were to be purchased and rented out short term, the time taken to generate profits through rental fees was identified.
