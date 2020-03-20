@@ -77,8 +77,6 @@ Maintenance costs are incurred every time a guest leaves (key assumption) and th
 
 Neighborhoods that are more expensive  and containing higher number of rental properties could be located
 
-While Manhattan listings are priced more, Brooklyn has a higher number of listings.
-
 ![alt_text](https://github.com/Srihari231092/airbnb_zillow_analytics/blob/master/res/img/geo_maps.PNG)
 
 ## Combined analysis
