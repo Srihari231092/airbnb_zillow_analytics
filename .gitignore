@@ -1,0 +1,13 @@
+*.pptx
+*.ipynb_checkpoints*
+*.csv
+*.pyc
+.idea/**
+.idea/vcs.xml
+./data/**
+*.gz
+*.docx
+*.html
+tmp/**
+tmp2/**
+Embeddings/**
